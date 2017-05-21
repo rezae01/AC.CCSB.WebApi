@@ -1,0 +1,19 @@
+.Cgreen{
+  color:green;
+}
+.Cred{
+  color:red;
+}
+.silver{
+  color:#9a9a9a;
+}
+.btn-tip-1 {
+  color: #fff;
+  background-color: #1796da;
+  border-color: #1796da;
+}
+.btn-tip-1:hover{
+  color: #f5f5f5;
+  background-color: #2aadda;
+  border-color: #2aadda;
+}
